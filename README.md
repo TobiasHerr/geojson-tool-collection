@@ -21,6 +21,7 @@ GeoJSON utilities that will make your life easier.
 ### validation
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+* [GeoJSON-Validation](https://github.com/craveprogramminginc/GeoJSON-Validation): GeoJSON validation module and command line interface
 
 ### services
 
